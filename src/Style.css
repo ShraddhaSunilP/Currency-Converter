@@ -1,0 +1,49 @@
+.container{
+    background-color:rgb(241, 241, 241);
+}
+.c_cnvtr{
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    font-size: 50px;
+    margin-top: 80px;
+    padding-top: 30px;
+}
+
+.m-top{
+    margin-top: 50px;
+}
+
+.m-left{
+    margin: 20px 0px 0px 82px;
+    padding-bottom: 60px;
+}
+
+.set-icon{
+    border-radius: 17px;
+    margin-left: 63px;
+    padding: 6px 12px 6px 12px;
+    background-color:#c4fbc4;
+}
+
+.padding-btn{
+    font-weight: 600;
+    padding:  1px 13px 1px 13px;
+    border: 2px solid #19d919;
+    background-color: #c9ffc9;  
+    color: #16bb16;
+}
+
+.m-p-color{
+    margin: 14px 0px 0px 0px;
+    font-size: x-large;
+    font-weight: 500;
+}
+
+.text-color{
+    color: #14ab14;
+    margin-top: 12px;
+    font-weight: 400;
+    font-size: 30px;
+}
+
