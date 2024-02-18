@@ -81,7 +81,7 @@ const CurrencyConverter = () => {
                         <div className="m-p-color">Converted Amount:</div>
                         <div className="text-color">
                             <span>{updateAmount} {fromCurrency} = </span>
-                            <span>{convertedAmount} {toCurrency}</span>
+                            <span>{convertedAmount} {toCurrency} </span>
                         </div>
                     </div>
                 </div>
