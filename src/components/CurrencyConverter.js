@@ -80,7 +80,7 @@ const CurrencyConverter = () => {
                         <div><button type="button" className="padding-btn" onClick={convertCurrency}>Convert</button></div>
                         <div className="m-p-color">Converted Amount:</div>
                         <div className="text-color">
-                            <span>{updatemount} {fromCurrency} = </span>
+                            <span>{updateAmount} {fromCurrency} = </span>
                             <span>{convertedAmount} {toCurrency}</span>
                         </div>
                     </div>
